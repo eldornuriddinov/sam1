@@ -1,0 +1,40 @@
+.title {
+    text-align: center;
+   padding-top: 200px;
+    text-transform: uppercase;
+}
+.card {border: 2px solid black;
+    width: 30%;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.card-icon {
+width: 100%;
+width: 25%;
+}
+.card-title {
+text-transform: uppercase;
+}
+.card-text {
+    font-size: 20px;
+
+}
+.card-btn {
+    text-transform: uppercase;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    width: 85%;
+   padding-top: 15px;
+   padding-bottom: 15px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.cards{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
